@@ -23,7 +23,7 @@ export const metadata: Metadata = {
       "Full Stack",
    ],
    other: {
-      "google-site-verification": " ",
+      "google-site-verification": "11ND7Lq7wqVz2HhllgMw5LZWB5FUxTDMtmrbx0LetDQ",
    },
    robots: {
       index: true,
